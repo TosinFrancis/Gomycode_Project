@@ -7,17 +7,17 @@ import pickle
    
 
 #model = pickle.load(open('Student_Performance_.pkl', 'rb'))
-st.markdown("<h1 style = 'text-align: center; color: 3D0C11'>START UP PROJECT</h1> ", unsafe_allow_html = True)
-st.markdown("<h6 style = 'top_margin: 0rem; text-align: center; color: #FFB4B4'>Built by GoMyCode Sanaith Wizard</h6>", unsafe_allow_html = True)
+st.markdown("<h1 style = 'text-align: center; color: 3D0C11'>FACTORS THAT AFFECTS STUDENTS SCORE</h1> ", unsafe_allow_html = True)
+st.markdown("<h6 style = 'top_margin: 0rem; text-align: center; color: #FFB4B4'>Built by OLANREWAJU HOPE</h6>", unsafe_allow_html = True)
 st.image('hat.png', width = 400)
 
 
 st.subheader('Project Brief')
 
-st.markdown("<p style = 'top_margin: 0rem; text-align: justify; color: #fafafa', 'background-color:#002b36'> write here.....</p>", unsafe_allow_html = True)
+st.markdown("<p style = 'top_margin: 0rem; text-align: justify; color: #fafafa', 'background-color:#002b36'> The data were obtained in a survey of students math and portuguese language courses in secondary school. It contains a lot of interesting social, gender and study information about students. You can use it for some EDA or try to predict students final grade</p>", unsafe_allow_html = True)
 
 st.markdown("<br><br>", unsafe_allow_html = True)
-st.markdown("<body style= 'background-color:powderblue'> write here.....</body>", unsafe_allow_html = True)
+
 
 
 username = st.text_input('Enter your name')
