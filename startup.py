@@ -14,7 +14,7 @@ st.image('hat.png', width = 400)
 
 st.subheader('Project Brief')
 
-st.markdown("<p style = 'top_margin: 0rem; text-align: justify; color: #fafafa', 'background-color:#002b36'> The data were obtained in a survey of students math and portuguese language courses in secondary school. It contains a lot of interesting social, gender and study information about students. You can use it for some EDA or try to predict students final grade</p>", unsafe_allow_html = True)
+st.markdown("<p style = 'top_margin: 0rem; text-align: justify; color: #FFB4B4', 'background-color:#002b36'> The data were obtained in a survey of students math and portuguese language courses in secondary school. It contains a lot of interesting social, gender and study information about students. You can use it for some EDA or try to predict students final grade</p>", unsafe_allow_html = True)
 
 st.markdown("<br><br>", unsafe_allow_html = True)
 
